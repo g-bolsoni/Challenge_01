@@ -4,7 +4,7 @@
 
 <h4> In this app, you can create new tasks to do, remove the completed tasks or checked tasks completed</h4>
 
- ![funcionamento](https://github.com/g-bolsoni/Challenge_01/blob/main/public/to_do.mp4)
+ ![funcionamento](https://github.com/g-bolsoni/Challenge_01/blob/main/public/to_do.gif)
 
 </br></br>
 <h2 align="center">Technologies Used </h2>
