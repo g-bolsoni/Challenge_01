@@ -11,5 +11,25 @@ header.header {
     display: flex;
     align-items: center;
     justify-content: center;
+
+    img{
+      max-width: 240px;
+      max-height: 100%;
+    }
   }
+
+}
+@media only screen and (max-width: 720px){
+  header.header{
+    padding-top: 0rem;
+    
+    > div{
+      padding: 1rem 1rem 12rem;
+
+      img{
+        max-width: 170px;
+      }
+    }
+  }
+  
 }
